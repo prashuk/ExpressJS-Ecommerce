@@ -6,7 +6,7 @@ This project is the backend of E-Commerce React App, an imaginary online shoppin
 
 ## Setup
 
-Make sure to follow all these steps exactly as explained below. Do not miss any steps or you won't be able to run this application.
+Make sure to follow all these steps exactly as explained below. 
 
 ### Install MongoDB
 
@@ -15,6 +15,10 @@ To run this project, you need to install the latest version of MongoDB Community
 https://docs.mongodb.com/manual/installation/
 
 Once you install MongoDB, make sure it's running.
+
+### Run Mongo Daemon
+
+    mongod
 
 ### Install the Dependencies
 
