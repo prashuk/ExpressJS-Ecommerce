@@ -20,7 +20,7 @@ Once you install MongoDB, make sure it's running.
 
 Next, from the project folder, install the dependencies:
 
-    npm i
+    sudo npm i
 
 ### Populate the Database
 
