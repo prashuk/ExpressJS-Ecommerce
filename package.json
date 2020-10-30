@@ -1,7 +1,7 @@
 {
-  "name": "vidly",
+  "name": "myapp-express-ecommerce-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Back-end ecommerce",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,8 +9,8 @@
     "test": "jest --watchAll --verbose"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Prashuk Ajmera",
+  "license": "",
   "dependencies": {
     "bcrypt": "^3.0.8",
     "config": "^1.31.0",
