@@ -6,7 +6,7 @@ This project is the backend of E-Commerce React App, an imaginary online shoppin
 
 ## Setup
 
-Make sure to follow all these steps exactly as explained below. 
+Make sure to follow all these steps exactly as explained below.
 
 ### Install MongoDB
 
@@ -18,13 +18,15 @@ Once you install MongoDB, make sure it's running.
 
 ### Run Mongo Daemon
 
-    mongod
+    mongod (for older version of mongo)
+    mongod --config /usr/local/etc/mongod.conf (new version)
 
 ### Install the Dependencies
 
 Next, from the project folder, install the dependencies:
 
-    sudo npm i
+    sudo npm update
+    sudo npm install
 
 ### Populate the Database
 
